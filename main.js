@@ -22,3 +22,8 @@ let msnry = new Masonry(grid,{
 })
 
 }
+// rellax js code
+
+var rellax = new Rellax['.rellax',{
+    center : true
+}]
